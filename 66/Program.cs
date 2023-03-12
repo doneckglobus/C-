@@ -7,5 +7,5 @@ if (m==n)
 else
     return m + sum(m+1, n);
 }
-System.Console.WriteLine(sum(2, 5));
+System.Console.WriteLine(sum(2, 6));
 
